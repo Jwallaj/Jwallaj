@@ -1,7 +1,7 @@
 Ping command is used to check if devices are connected to a network. Best for network troubleshooting.
 Ping is used during times to make sure devices are connected. When ping is used a destination address must be used.
 
-Example: google.com
+Example: Let's ping google.com
 
 C:\Users\jwallaj>ping google.com
 
@@ -16,3 +16,4 @@ Ping statistics for 2607:f8b0:4002:c02::64:
 Approximate round trip times in milli-seconds:
     Minimum = 23ms, Maximum = 28ms, Average = 26ms
 
+4 responses are given
