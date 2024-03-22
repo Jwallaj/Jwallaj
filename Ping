@@ -1,0 +1,18 @@
+Ping command is used to check if devices are connected to a network. Best for network troubleshooting.
+Ping is used during times to make sure devices are connected. When ping is used a destination address must be used.
+
+Example: google.com
+
+C:\Users\jwallaj>ping google.com
+
+Pinging google.com [2607:f8b0:4002:c02::64] with 32 bytes of data:
+Reply from 2607:f8b0:4002:c02::64: time=23ms
+Reply from 2607:f8b0:4002:c02::64: time=28ms
+Reply from 2607:f8b0:4002:c02::64: time=27ms
+Reply from 2607:f8b0:4002:c02::64: time=26ms
+
+Ping statistics for 2607:f8b0:4002:c02::64:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 23ms, Maximum = 28ms, Average = 26ms
+
